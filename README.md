@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashan Tharanga</h1>
 <h3 align="center">A passionate MERNStack developer from Sri lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashantg" alt="hashantg" /></a> </p>
+
 
 - 🔭 I’m currently working on [tmdb movie app](https://github.com/HashanTG/tmdb_app.git)
 
