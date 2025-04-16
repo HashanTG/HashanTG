@@ -21,6 +21,12 @@
 
 - ⚡ Fun fact **"Did you know that there's a scientific term for the fear of long words? It's called 'hippopotomonstrosesquippedaliophobia.' Ironically, it's probably the scariest word for people with that fear!" 🦛📚😄**
 
+  ## 🏅 Certifications
+
+- [GitHub Foundations Certification]([https://skills.github.com/certificates/](https://www.credly.com/badges/d90dbf7a-875a-4b6b-a0a5-b702769e24e5/public_url)) - *Issued by GitHub Skills*
+
+<img src="https://github.com/github/skills/blob/main/certifications/github-foundations-badge.svg" width="100"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22325274/hashan-tharanga?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22325274/hashan-tharanga?tab=profile" height="30" width="40" /></a>
