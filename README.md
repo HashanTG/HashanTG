@@ -25,7 +25,7 @@
 
 - [GitHub Foundations Certification]([https://skills.github.com/certificates/](https://www.credly.com/badges/d90dbf7a-875a-4b6b-a0a5-b702769e24e5/public_url)) - *Issued by GitHub Skills*
 
-<img src="https://github.com/github/skills/blob/main/certifications/github-foundations-badge.svg" width="100"/>
+<img src="https://user-images.githubusercontent.com/github-foundations.png" width="100"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
